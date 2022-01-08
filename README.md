@@ -1,0 +1,1 @@
+# slider-with-vertical-thumbnail
